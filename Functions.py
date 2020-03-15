@@ -24,6 +24,6 @@ def Factorbase(n):
     base = np.array([-1])
     interval = np.arange(2, n + 1, 1)
     for i in range(interval.size):
-        if is_prime(interval[i]) == True:
+        if is_prime(interval[i]) is True:
             base = np.append(base, interval[i])
     return base
