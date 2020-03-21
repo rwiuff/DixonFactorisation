@@ -1,5 +1,5 @@
 # DixonFactorisation
- ## A simple Python integer factorisation rountine
-Just because programming is fun.
+ ## A simple Python integer-factorisation routine
+Just 'cause
 
 By Rasmus Wiuff - rwiuff@gmail.com
