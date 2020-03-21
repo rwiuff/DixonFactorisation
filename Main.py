@@ -1,4 +1,12 @@
-from Functions import Factorbase
+from Functions import Factorbase, ExponentVector
 from math import gcd
 
-print(Factorbase(19))
+N = 84923
+
+B = 19
+
+P = Factorbase(B)
+print(P)
+Q = -2394
+EV = ExponentVector(Q, P)
+print(EV)
